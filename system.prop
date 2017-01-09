@@ -1,0 +1,4 @@
+ro.sf.lcd_density=480
+ro.hardware.keystore=msm8953
+persist.sys.usb.config=mtp,adb
+ro.build.product=P2a42
