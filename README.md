@@ -11,7 +11,7 @@ Add to `.repo/local_manifests/P2a42.xml`:
            fetch="https://github.com/omnirom" />
  <remote  name="CyanogenMod"
            fetch="https://github.com/CyanogenMod" />
-    <project path="device/lenovo/P2a42" name="android_device_lenovo_P2a42" remote="Celoxocis" revision="android-6.0" />
+    <project path="device/lenovo/P2a42" name="android_device_lenovo_P2a42" remote="Celoxocis" revision="cm-13.0" />
     <project path="bootable/recovery-twrp" name="android_bootable_recovery" remote="omnirom" revision="android-7.1" />
     <project path="external/busybox" name="android_external_busybox" remote="omnirom" revision="android-7.1" />
     <remove-project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" groups="pdk" />
