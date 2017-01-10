@@ -32,7 +32,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := P2a42
-PRODUCT_MODEL := Lenovo P2a42
+PRODUCT_MODEL := lenovo P2a42
 PRODUCT_NAME := cm_P2a42
-PRODUCT_BRAND := Lenovo
-PRODUCT_MANUFACTURER := Lenovo
+PRODUCT_BRAND := lenovo
+PRODUCT_MANUFACTURER := lenovo
