@@ -1,4 +1,4 @@
-DEVICE_TREE := device/lenovo/P2a42
+DEVICE_TREE := device/lenovo/p2a42
 
 # Bootloader
 TARGET_NO_BOOTLOADER := true
@@ -33,7 +33,7 @@ TARGET_2ND_CPU_VARIANT := cortex-a53
 #TARGET_KERNEL_ARCH := arm64
 #TARGET_KERNEL_HEADER_ARCH := arm64
 #TARGET_KERNEL_CONFIG := twrp_defconfig
-#TARGET_KERNEL_DEVICE_DEFCONFIG := device_P2a42
+#TARGET_KERNEL_DEVICE_DEFCONFIG := device_p2a42
 
 TARGET_PREBUILT_KERNEL := $(DEVICE_TREE)/Image.gz-dtb
 
@@ -82,7 +82,7 @@ BOARD_SUPPRESS_SECURE_ERASE := true
 # TWRP Overlay Graphics
 TW_NEW_ION_HEAP := true
 TW_TARGET_USES_QCOM_BSP := true
-TARGET_SPECIFIC_HEADER_PATH := device/lenovo/P2a42/include
+TARGET_SPECIFIC_HEADER_PATH := device/lenovo/p2a42/include
 
 # exFAT drivers included in the kernel?
 TW_NO_EXFAT_FUSE := true
