@@ -14,6 +14,5 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_P2a42.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/cm.mk
 
