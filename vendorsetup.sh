@@ -1,1 +1,1 @@
-add_lunch_combo cm_P2a42-eng
+add_lunch_combo cm_p2a42-eng
